@@ -320,90 +320,66 @@ include 'header.php';
 			</section>
 			<!-- Service end -->
 
-			<!-- Static Box Start -->
-			<section class="pbmit-element-static-box-style-1 section-lg">
+			<!-- Static Box / How It Works Start -->
+			<section class="section-lg shipex-process-section">
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center">
 						<h4 class="pbmit-subtitle">How it works</h4>
 						<h2 class="pbmit-title">Storage &amp; Logistics Solutions <br> Built Around Your Business</h2>
 					</div>
-					<div class="row">
-						<article class="pbmit-static-box-style-1">
-							<div class="pbmit-staticbox-wrapper">
-								<div class="pbmit-bg-imgbox col-md-6" style="background-image: url(images/homepage-1/static-box/static-box-planning-analysis.jpg);">
-									<div class="pbmit-img">
-										<img src="images/homepage-1/static-box/static-box-planning-analysis.jpg" class="img-fluid" alt="Planning &amp; Site Analysis">
-									</div>
-									<div class="pbmit-box-number">01</div>
-									<h4 class="pbmit-static-box-title">Planning &amp; Site Analysis</h4>
+					<div class="row g-4">
+						<div class="col-12 col-md-6 col-lg-3">
+							<div class="shipex-process-card">
+								<div class="shipex-process-img-wrap">
+									<img src="images/homepage-1/static-box/static-box-planning-analysis.jpg" class="img-fluid" alt="Planning &amp; Site Analysis">
+									<span class="shipex-process-number">01</span>
 								</div>
-								<div class="pbmit-content-box col-md-6">
-									<div class="pbmit-box-number">01</div>
-									<div class="pbmit-content-inner">
-										<h4 class="pbmit-static-box-title">Planning &amp; Site Analysis</h4>
-										<div class="pbmit-static-box-desc">We evaluate your storage requirements, logistics goals and infrastructure conditions to design the right solution before a single barrel moves.</div>
-									</div>
+								<div class="shipex-process-body">
+									<h4 class="shipex-process-title">Planning &amp; Site Analysis</h4>
+									<p class="shipex-process-desc">We evaluate your storage requirements, logistics goals and infrastructure conditions to design the right solution before a single barrel moves.</p>
 								</div>
 							</div>
-						</article>
-						<article class="pbmit-static-box-style-1">
-							<div class="pbmit-staticbox-wrapper">
-								<div class="pbmit-bg-imgbox col-md-6" style="background-image: url(images/homepage-1/static-box/static-box-storage-handling.jpg);">
-									<div class="pbmit-img">
-										<img src="images/homepage-1/static-box/static-box-storage-handling.jpg" class="img-fluid" alt="Storage &amp; Handling">
-									</div>
-									<div class="pbmit-box-number">02</div>
-									<h4 class="pbmit-static-box-title">Storage &amp; Handling</h4>
+						</div>
+						<div class="col-12 col-md-6 col-lg-3">
+							<div class="shipex-process-card">
+								<div class="shipex-process-img-wrap">
+									<img src="images/homepage-1/static-box/static-box-storage-handling.jpg" class="img-fluid" alt="Storage &amp; Handling">
+									<span class="shipex-process-number">02</span>
 								</div>
-								<div class="pbmit-content-box col-md-6">
-									<div class="pbmit-box-number">02</div>
-									<div class="pbmit-content-inner">
-										<h4 class="pbmit-static-box-title">Storage &amp; Handling</h4>
-										<div class="pbmit-static-box-desc">Products are received and held in modern, monitored tank facilities built to strict safety and environmental standards.</div>
-									</div>
+								<div class="shipex-process-body">
+									<h4 class="shipex-process-title">Storage &amp; Handling</h4>
+									<p class="shipex-process-desc">Products are received and held in modern, monitored tank facilities built to strict safety and environmental standards.</p>
 								</div>
 							</div>
-						</article>
-						<article class="pbmit-static-box-style-1">
-							<div class="pbmit-staticbox-wrapper">
-								<div class="pbmit-bg-imgbox col-md-6" style="background-image: url(images/homepage-1/static-box/static-box-transport-delivery.jpg);">
-									<div class="pbmit-img">
-										<img src="images/homepage-1/static-box/static-box-transport-delivery.jpg" class="img-fluid" alt="Transport &amp; Delivery">
-									</div>
-									<div class="pbmit-box-number">03</div>
-									<h4 class="pbmit-static-box-title">Transport &amp; Delivery</h4>
+						</div>
+						<div class="col-12 col-md-6 col-lg-3">
+							<div class="shipex-process-card">
+								<div class="shipex-process-img-wrap">
+									<img src="images/homepage-1/static-box/static-box-transport-delivery.jpg" class="img-fluid" alt="Transport &amp; Delivery">
+									<span class="shipex-process-number">03</span>
 								</div>
-								<div class="pbmit-content-box col-md-6">
-									<div class="pbmit-box-number">03</div>
-									<div class="pbmit-content-inner">
-										<h4 class="pbmit-static-box-title">Transport &amp; Delivery</h4>
-										<div class="pbmit-static-box-desc">Our multimodal network moves your cargo through major global ports to its destination, on time and with full visibility.</div>
-									</div>
+								<div class="shipex-process-body">
+									<h4 class="shipex-process-title">Transport &amp; Delivery</h4>
+									<p class="shipex-process-desc">Our multimodal network moves your cargo through major global ports to its destination, on time and with full visibility.</p>
 								</div>
 							</div>
-						</article>
-						<article class="pbmit-static-box-style-1">
-							<div class="pbmit-staticbox-wrapper">
-								<div class="pbmit-bg-imgbox col-md-6" style="background-image: url(images/homepage-1/static-box/static-box-safety-compliance.jpg);">
-									<div class="pbmit-img">
-										<img src="images/homepage-1/static-box/static-box-safety-compliance.jpg" class="img-fluid" alt="Safety &amp; Compliance Monitoring">
-									</div>
-									<div class="pbmit-box-number">04</div>
-									<h4 class="pbmit-static-box-title">Safety &amp; Compliance Monitoring</h4>
+						</div>
+						<div class="col-12 col-md-6 col-lg-3">
+							<div class="shipex-process-card">
+								<div class="shipex-process-img-wrap">
+									<img src="images/homepage-1/static-box/static-box-safety-compliance.jpg" class="img-fluid" alt="Safety &amp; Compliance Monitoring">
+									<span class="shipex-process-number">04</span>
 								</div>
-								<div class="pbmit-content-box col-md-6">
-									<div class="pbmit-box-number">04</div>
-									<div class="pbmit-content-inner">
-										<h4 class="pbmit-static-box-title">Safety &amp; Compliance Monitoring</h4>
-										<div class="pbmit-static-box-desc">Smart systems and industry-certified safety protocols monitor every stage of the operation, around the clock.</div>
-									</div>
+								<div class="shipex-process-body">
+									<h4 class="shipex-process-title">Safety &amp; Compliance Monitoring</h4>
+									<p class="shipex-process-desc">Smart systems and industry-certified safety protocols monitor every stage of the operation, around the clock.</p>
 								</div>
 							</div>
-						</article>
+						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Static Box End -->
+			<!-- Static Box / How It Works End -->
 
 			<!-- Ihbox Start -->
 			<section class="section-lgb">

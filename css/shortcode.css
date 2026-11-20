@@ -3845,12 +3845,13 @@
     -webkit-line-clamp: 2;
     line-clamp: 2;
     -webkit-box-orient: vertical;
-    -khtml-transform: translateX(-50%) translateY(0) rotate(180deg);
-    -moz-transform: translateX(-50%) translateY(0) rotate(180deg);
-    -ms-transform: translateX(-50%) translateY(0) rotate(180deg);
-    -o-transform: translateX(-50%) translateY(0) rotate(180deg);
-    transform: translateX(-90%) translateY(-50%) rotate(-90deg);
-    transform-origin: bottom right;
+    -khtml-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+    transform-origin: center;
+    writing-mode: horizontal-tb;
     font-weight: 500;
 }
 .pbmit-static-box-style-1 .pbmit-content-box,
